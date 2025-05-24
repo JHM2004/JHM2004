@@ -51,7 +51,7 @@
 
 > 🏆 **Flagship Project**: Full-stack food delivery platform
 >
-> 🔧 `Spring Boot` | `Vue3` | Docker
+> 🔧 `Spring Boot` | `Vue3` | `Docker`
 >
 > 🚚  Course Design @ TJU Software Engineering Practice
 
@@ -61,7 +61,7 @@
 >
 > 🎨 **Tech Stack**: `Three.js` × `D3.js` × `WebGL`
 >
-> ✨ *Immersive visualization of 4.5 billion years of evolution*
+> ✨ Immersive visualization of 4.5 billion years of evolution
 >
 > 🏆 Course Project @ TJU Visualization Design
 
@@ -71,7 +71,7 @@
 >
 > 📚 Computer Science Textbooks shared | 🆕 Stay updated
 >
-> 🔭 *Built with Flask + MongoDB* 
+> 🔭 Built with `Flask` + `MongoDB` 
 
 ------
 
