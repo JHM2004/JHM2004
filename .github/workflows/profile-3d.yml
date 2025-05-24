@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
+  schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -11,21 +11,15 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0  # 获取完整提交历史
-
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git pull origin main
           git add -A .
           git commit -m "generated"
-          
-          # 同步远程更改并强制推送（确保该工作流是唯一修改者）
-          git pull --rebase origin main
-          git push origin main
+          git push
