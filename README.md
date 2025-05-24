@@ -23,12 +23,12 @@
   <img src="https://stats.justsong.cn/api/leetcode/?username=JHM2004&theme=dark" style="width: 48%; height: auto;" />
   <img src="https://stats.justsong.cn/api/bilibili/?id=1959928946&theme=dark" style="width: 48%; height: auto;" />
 </div>
-<!-- profile-3d-contrib 3D 贡献图-->
 
+<!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JHM2004/JHM2004/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JHM2004/JHM2004/blob/main/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://github.com/JHM2004/JHM2004/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JHM2004/JHM2004/output-3D/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JHM2004/JHM2004/output-3D/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://github.com/JHM2004/JHM2004/output-3D/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 ## About Me
