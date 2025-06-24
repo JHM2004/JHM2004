@@ -84,7 +84,7 @@
 >
 > 🔍 R&D of JavaScript Virtual Machine | C/C++ language
 >
-> 📅 *Expected launch: Q3 2025*
+> 📅 *Expected launch: Q1 2026*
 
 ------
 
