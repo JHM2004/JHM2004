@@ -78,7 +78,7 @@
 
 ### ⏳ Coming Soon
 
-#### 🏢 **Huawei Internship Diary** [github.com/JHM2004/Huawei-Internship-Diary](https://github.com/JHM2004/Huawei-Internship-Diary)
+#### 🏢 **Huawei Internship Diary** [github.com/JHM2004/Huawei-Internship-Diary](https://github.com/JHM2004/Huawei-Internship-Diary) (Repository access pending!)
 
 > 💻 Base Software Development Intern @ 2025
 >
