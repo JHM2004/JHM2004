@@ -66,7 +66,7 @@
 >
 > 🏆 Course Project @ TJU Visualization Design
 
-#### 📖 **Open Textbook Galaxy** [www.book-sharing.top/](https://www.book-sharing.top/) Website temporarily closed!
+#### 📖 **Open Textbook Galaxy** [www.book-sharing.top/](https://www.book-sharing.top/) (Website temporarily closed!)
 
 > ❤️ **Mission**: `Democratize Education Resources`
 >
