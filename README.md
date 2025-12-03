@@ -99,6 +99,8 @@
 
 >QQ: 2011342963
 >
+>QQ Group: 165309200
+>
 >Feel free to reach out for tech discussions, project collaborations, or sharing ideas! 🚀
 
 <!-- 语言统计 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHM2004&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&show_icons=true&theme=merko&border_radius=8"/> -->
